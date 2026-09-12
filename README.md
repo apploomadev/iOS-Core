@@ -3,7 +3,7 @@
 Media transport core for the [AppLooma RTC](https://applooma.dev) iOS SDK.
 
 **You almost certainly want
-[AppLoomaRTC](https://github.com/apploomadev/iOS-SDK) instead.** This package is
+[AppLoomaRTC](https://github.com/AppLooma-RTC/iOS-SDK) instead.** This package is
 the low-level transport layer it is built on, published separately because Swift
 Package Manager resolves dependencies as packages.
 

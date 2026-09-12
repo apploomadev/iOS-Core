@@ -25,8 +25,8 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/apploomadev/iOS-WebRTC.git", exact: "150.7871.01"),
-        .package(url: "https://github.com/apploomadev/iOS-UniFFI.git", exact: "0.1.9"),
+        .package(url: "https://github.com/AppLooma-RTC/iOS-WebRTC.git", exact: "150.7871.01"),
+        .package(url: "https://github.com/AppLooma-RTC/iOS-UniFFI.git", exact: "0.1.9"),
     ],
     targets: [
         // The C and Objective-C helper targets keep their upstream names: they
